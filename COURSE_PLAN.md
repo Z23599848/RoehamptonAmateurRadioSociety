@@ -4,8 +4,8 @@
 
 | Week | Theme | What learners will practise | Status |
 | --- | --- | --- | --- |
-| 1 | Your first steps in amateur radio | Explain the hobby; classify HF/VHF/UHF; compare frequency and wavelength; recognise modes; read a licence-table row | Teaching draft complete |
-| 2 | Your licence and responsible operation | Call signs, identification, permitted messages, supervision, licence maintenance, geographical limits and reference-table use | Planned |
+| 1 | [Your first steps in amateur radio](modules/01-first-steps/README.md) | Explain the hobby; classify HF/VHF/UHF; compare frequency and wavelength; recognise modes; read a licence-table row | Teaching draft complete |
+| 2 | [Your licence and responsible operation](modules/02-licence-and-responsibility/README.md) | Call signs, identification, messages, supervision, licence maintenance, geographical limits, logging and reference-table restrictions | Teaching draft complete; detailed EMF deferred |
 | 3 | Electricity and radio building blocks | Units, conductors, current, voltage, resistance, power, simple circuits, component symbols and AC/DC | Planned |
 | 4 | From microphone to radio signal | Transmitter/receiver blocks, modulation, tuning, filtering, microphone settings and clean transmissions | Planned |
 | 5 | Antennas, feeders and propagation | Choose an antenna; recognise feeder/connectors; explain matching, SWR, polarisation and how signals travel | Planned |
@@ -27,7 +27,7 @@ Safety and lawful operation should be reinforced throughout. Start with receive-
 
 ## Preparing the later modules
 
-Use the next transcript to identify topics, then author the lesson around the current Foundation learning points. Keep source acknowledgements and corrections in each module's `sources.md`. Distinguish background enrichment from examinable content, and mark partial coverage explicitly.
+When a transcript is supplied, use it to identify topics, then author the lesson around the current Foundation learning points. A module can also be written directly from official sources, as Week 2 was. Keep source acknowledgements and corrections in each module's `sources.md`; do not imply a video or transcript was reviewed when it was not. Distinguish background enrichment from examinable content, and mark partial coverage explicitly.
 
 Before describing the whole course as exam-ready, map every item in the **Foundation column** of the current combined syllabus to teaching and assessment. The broad themes above are not a completed coverage audit. Combined-syllabus columns for Intermediate and Full must not be mistaken for Foundation requirements.
 
@@ -39,4 +39,4 @@ The [RSGB examination overview](https://rsgb.org/main/clubs-training/for-trainer
 - [RSGB exam forms and EX307 reference booklet](https://rsgb.org/main/clubs-training/forms/)
 - [Ofcom amateur licence conditions and guidance](https://www.ofcom.org.uk/spectrum/radio-equipment/amateur-radio-info)
 
-Plan prepared: 6 October 2026.
+Plan updated: 7 October 2026. Next module to develop: Week 3, electricity and radio building blocks.
