@@ -25,6 +25,15 @@ Both are complete teaching drafts with a learner guide, worksheet, 90-minute tut
 | [Before-you-transmit checklist](modules/02-licence-and-responsibility/station-checklist.md) | Rehearse the questions to ask before operating |
 | [Week 2 sources and syllabus mapping](modules/02-licence-and-responsibility/sources.md) | Check licensing coverage and deferred topics |
 
+## Download the teaching packs
+
+- [Week 1 printable teaching pack (PDF)](downloads/RARS_Week_01_Teaching_Pack.pdf)
+- [Week 2 printable teaching pack (PDF)](downloads/RARS_Week_02_Teaching_Pack.pdf)
+- [Week 1 original resource bundle (ZIP)](downloads/RARS_Week_01_Teaching_Pack.zip)
+- [Weeks 1 and 2 course materials bundle (ZIP)](downloads/RARS_Course_Materials_Weeks_01_02.zip)
+
+The ZIP files preserve the previously delivered snapshots. The combined bundle contains editable material for both weeks and the Week 2 PDF; the Week 1 PDF is also available separately above. Browse the `modules` folders for the current editable lessons, worksheets, quizzes, answers, tutor guides, diagrams and source notes.
+
 ## Course status
 
 Version 0.2 | 7 October 2026 | English | Independent RARS teaching material.
