@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="880" height="330" preserveAspectRatio="xMinYMin meet" viewBox="0 0 880 330" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Spectrum</title>
+<desc>HF: 3–30 MHz; VHF: 30–300 MHz; UHF: 300–3,000 MHz. Example markers are 14.2, 145 and 435 MHz. These are broad ranges, not an allocation map.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="880" height="330"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-330)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="880" height="330" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="30" y="294" style="font-family: RARS-Bold; font-size: 25px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,588) scale(1,-1)">A shared radio spectrum</text>
+			<text x="30" y="266" style="font-family: RARS; font-size: 14px;fill: rgb(32%,41%,47%); stroke:none;" transform="translate(0,532) scale(1,-1)">Broad ranges • logarithmic scale • illustrative frequencies</text>
+			<rect x="60.0" y="160" width="250.0" height="75" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,94%,94%); fill-rule: evenodd;"/>
+			<text x="80.0" y="203" style="font-family: RARS-Bold; font-size: 23px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,406) scale(1,-1)">HF</text>
+			<text x="80.0" y="178" style="font-family: RARS; font-size: 16px;fill: rgb(11%,17%,21%); stroke:none;" transform="translate(0,356) scale(1,-1)">3–30 MHz</text>
+			<rect x="310.0" y="160" width="250.0" height="75" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2; fill: rgb(87%,92%,96%); fill-rule: evenodd;"/>
+			<text x="330.0" y="203" style="font-family: RARS-Bold; font-size: 23px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,406) scale(1,-1)">VHF</text>
+			<text x="330.0" y="178" style="font-family: RARS; font-size: 16px;fill: rgb(11%,17%,21%); stroke:none;" transform="translate(0,356) scale(1,-1)">30–300 MHz</text>
+			<rect x="560.0" y="160" width="250.0" height="75" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2; fill: rgb(92%,90%,96%); fill-rule: evenodd;"/>
+			<text x="580.0" y="203" style="font-family: RARS-Bold; font-size: 23px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,406) scale(1,-1)">UHF</text>
+			<text x="580.0" y="178" style="font-family: RARS; font-size: 16px;fill: rgb(11%,17%,21%); stroke:none;" transform="translate(0,356) scale(1,-1)">300–3,000 MHz</text>
+			<path d="M 60,151 L 60,160 Z" style="stroke: rgb(32%,41%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="55.0" y="132" style="font-family: RARS; font-size: 14px;fill: rgb(32%,41%,47%); stroke:none;" transform="translate(0,264) scale(1,-1)">3</text>
+			<path d="M 310,151 L 310,160 Z" style="stroke: rgb(32%,41%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="305.0" y="132" style="font-family: RARS; font-size: 14px;fill: rgb(32%,41%,47%); stroke:none;" transform="translate(0,264) scale(1,-1)">30</text>
+			<path d="M 560,151 L 560,160 Z" style="stroke: rgb(32%,41%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="555.0" y="132" style="font-family: RARS; font-size: 14px;fill: rgb(32%,41%,47%); stroke:none;" transform="translate(0,264) scale(1,-1)">300</text>
+			<path d="M 810,151 L 810,160 Z" style="stroke: rgb(32%,41%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="712.0" y="132" style="font-family: RARS; font-size: 14px;fill: rgb(32%,41%,47%); stroke:none;" transform="translate(0,264) scale(1,-1)">3,000 MHz</text>
+			<path d="M 228.791772,80 L 228.791772,155 Z" style="stroke: rgb(0%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="228.7918 158, 223.7918 149, 233.7918 149" style="stroke: rgb(0%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,49%,51%); fill-rule: evenodd;"/>
+			<text x="188.7917724158485" y="60" style="font-family: RARS-Bold; font-size: 16px;fill: rgb(0%,49%,51%); stroke:none;" transform="translate(0,120) scale(1,-1)">14.2 MHz</text>
+			<path d="M 481.061687,80 L 481.061687,155 Z" style="stroke: rgb(0%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="481.0617 158, 476.0617 149, 486.0617 149" style="stroke: rgb(0%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,49%,51%); fill-rule: evenodd;"/>
+			<text x="441.0616868788281" y="60" style="font-family: RARS-Bold; font-size: 16px;fill: rgb(0%,49%,51%); stroke:none;" transform="translate(0,120) scale(1,-1)">145 MHz</text>
+			<path d="M 600.342001,80 L 600.342001,155 Z" style="stroke: rgb(0%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="600.342 158, 595.342 149, 605.342 149" style="stroke: rgb(0%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,49%,51%); fill-rule: evenodd;"/>
+			<text x="560.3420005587437" y="60" style="font-family: RARS-Bold; font-size: 16px;fill: rgb(0%,49%,51%); stroke:none;" transform="translate(0,120) scale(1,-1)">435 MHz</text>
+			<text x="30" y="24" style="font-family: RARS; font-size: 13px;fill: rgb(32%,41%,47%); stroke:none;" transform="translate(0,48) scale(1,-1)">Amateur allocations occupy particular parts of these ranges; this is not an allocation map.</text>
+		</g>
+	</g>
+</svg>
